@@ -1,0 +1,48 @@
+body {
+    background-color: khaki;
+}
+#heading {
+    background-image: url('fotor-ai-20230904183455.jpg');
+    height: 500px;
+    background-size: contain;
+} 
+#head{
+    font-family: 'Tangerine';
+    font-size: 80px;
+    text-shadow: 4px 4px 4px #aaa;
+    text-align: center;
+    padding-top: 2%;n 
+    color: rgb(82,11,11);
+}
+#intro-section{
+padding: 4% 5%;
+background-color: saddlebrown(110,16,16);
+}
+.lead{
+font-family:cursive, serif;
+font-size: 2rem;
+line-height: 4rem;
+}
+.coffee-names{
+    font-family: 'Tangarine' serif;
+    font-size: 4rem;
+}
+.coffee-info{
+    font-family: 'Quicksand', serif;
+    font-size: 30px;
+    line-height: 3rem;
+} 
+#coffee-heading{
+   text-align: left;
+    font-family: 'Quicksand', serif;
+    font-size:50px;
+} 
+#footer{
+    text-align: center;
+    padding-top: 3%;
+    background-color: rgb(110, 16, 16);
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Quicksand', serif;
+    line-height: 3rem;
+}
